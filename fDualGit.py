@@ -28,3 +28,7 @@ if st7 in listNs:
 for i in range(0,len(listNs)): 
     print(st6 + listNs[i], end='\n')
 
+"""
+Step 12 
+Ready to generate vStep12 tag
+""" 
