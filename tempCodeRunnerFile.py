@@ -1,3 +1,4 @@
+# step 6, commit after yb and master merge, new branch; yBSt6
 st6 = 6
 print(st6**3)
 
@@ -14,7 +15,15 @@ listNs = [1,2,3,4,5,6,7,8]
 if st7 in listNs:
     print("st7 appears in listNs")
 
-#step 11, double var declaration fixed, for cycle added
-
+#step 11, double var declaration in stedp 8 fixed, loop to iterate the list added
 for i in range(0,len(listNs)): 
     print(st6 + listNs[i], end='\n')
+
+"""
+Step 12 
+Ready to generate vStep12 tag
+""" 
+
+#step 14 
+for i in range(0,len(listNs)): 
+    print(st6 + listNs[i], end='list item added=' + str(i) + '\n')

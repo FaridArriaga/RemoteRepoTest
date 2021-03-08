@@ -32,3 +32,7 @@ for i in range(0,len(listNs)):
 Step 12 
 Ready to generate vStep12 tag
 """ 
+
+#step 14, new loop added
+for i in range(0,len(listNs)): 
+    print(st6 + listNs[i], end=' List item added=' + str(i) + '\n')
